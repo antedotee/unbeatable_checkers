@@ -1,0 +1,53 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+venv/
+.venv/
+
+docs/
+.agents/
+.claude/
+documents/
+engine/
+tests/
+
+skills-lock.json
+verify.py
+
+web/dist/
+web/node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Cache
+.cache/
+.temp/
+.tmp/
+
+# Coverage
+coverage/
+
+# TypeScript
+*.tsbuildinfo
+
+build/
+release/
+generated/
