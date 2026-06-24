@@ -9,7 +9,6 @@ docs/
 .agents/
 .claude/
 documents/
-engine/
 tests/
 
 skills-lock.json
